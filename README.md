@@ -32,5 +32,8 @@ Academic Research – Scholars study public interest in social, economic, or hea
 
 # Visualization 
 <img width="1529" height="3034" alt="2025-07-16 19 41 28" src="https://github.com/user-attachments/assets/354c5a80-f6f1-4cca-ae2d-ca4e372eee1c" />
+<img width="1527" height="3319" alt="2025-07-16 19 42 52" src="https://github.com/user-attachments/assets/c997e3d0-db7e-4c80-bcd2-e4bfdffe9537" />
+
+
 # Conclusion
 Google Search Trends serves as a vital tool for data-driven decision-making by revealing what people are searching for in real time. Its ability to track, compare, and forecast trends makes it indispensable across industries, helping users stay ahead in an ever-changing digital landscape.
